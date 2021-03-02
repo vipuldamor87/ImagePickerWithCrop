@@ -1,0 +1,3 @@
+include ':libImageCrop'
+include ':app'
+rootProject.name = "ImagepickerCrop"
